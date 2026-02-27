@@ -7,3 +7,15 @@ Key Features
     Modular Base: A clean starting point for any bonk.io bot project.
 
     Lightweight: Built with Python for efficiency and ease of u
+
+# Ethical Use Policy
+
+This core is intended for educational purposes, research, and enhancing the bonk.io experience through creative automation. By using Bonk-bot Core, you agree to:
+
+    Respect the Community: Do not use this framework to create "bot slop," spam chat, or disrupt the gameplay for others.
+
+    No Malicious Intent: Avoid creating bots that crash rooms, exploit game vulnerabilities, or ruin the competitive balance.
+
+    Accountability: If you modify and distribute a version of this core, you must comply with the GPLv2 license and keep your source code open.
+
+Abuse of this framework that leads to a negative environment in bonk.io is strongly discouraged.
