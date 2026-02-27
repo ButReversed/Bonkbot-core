@@ -14,4 +14,4 @@ Key Features
 
 2. Anti-Abuse Identification: We reserve the right to implement identification headers within the core logic to distinguish legitimate research bots from malicious "slop" automation. Using this core to bypass game security or harass users may lead to your hardware ID being flagged by game providers.
 
-3. Liability: The developers of Bonk-bot Core are not responsible for any bans, legal actions, or damages resulting from the misuse of this software. You are solely responsible for your actions and any digital footprint you leave behind while operating this core.
+3. Liability: The developer of Bonk-bot Core are not responsible for any bans, legal actions, or damages resulting from the misuse of this software. You are solely responsible for your actions and any digital footprint you leave behind while operating this core.
