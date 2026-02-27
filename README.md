@@ -8,6 +8,16 @@ Key Features
 
     Lightweight: Built with Python for efficiency and ease of u
 
+# Read Before Proceeding
+
+This is not a plug-and-play bot. It has no movement logic, no automated gameplay, and no user interface.
+
+    Functionality: It purely translates binary/JSON WebSocket data into readable console logs.
+
+    Requirement: To create a functional bot, you must implement your own game-loop logic on top of this interface.
+
+    Target Audience: Developers who want to understand the Bonk.io protocol, not people looking for an "auto-win" tool.
+
 # Legal Notice & Compliance
 
 1. Usage Monitoring: This framework is designed with transparency in mind. Users are advised that any derivative works based on Bonk-bot Core must strictly adhere to the GPLv2 license. Failure to provide source code upon distribution constitutes a legal breach of copyright.
