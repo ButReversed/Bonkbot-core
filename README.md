@@ -8,14 +8,10 @@ Key Features
 
     Lightweight: Built with Python for efficiency and ease of u
 
-# Ethical Use Policy
+# Legal Notice & Compliance
 
-This core is intended for educational purposes, research, and enhancing the bonk.io experience through creative automation. By using Bonk-bot Core, you agree to:
+1. Usage Monitoring: This framework is designed with transparency in mind. Users are advised that any derivative works based on Bonk-bot Core must strictly adhere to the GPLv2 license. Failure to provide source code upon distribution constitutes a legal breach of copyright.
 
-    Respect the Community: Do not use this framework to create "bot slop," spam chat, or disrupt the gameplay for others.
+2. Anti-Abuse Identification: We reserve the right to implement identification headers within the core logic to distinguish legitimate research bots from malicious "slop" automation. Using this core to bypass game security or harass users may lead to your hardware ID being flagged by game providers.
 
-    No Malicious Intent: Avoid creating bots that crash rooms, exploit game vulnerabilities, or ruin the competitive balance.
-
-    Accountability: If you modify and distribute a version of this core, you must comply with the GPLv2 license and keep your source code open.
-
-Abuse of this framework that leads to a negative environment in bonk.io is strongly discouraged.
+3. Liability: The developers of Bonk-bot Core are not responsible for any bans, legal actions, or damages resulting from the misuse of this software. You are solely responsible for your actions and any digital footprint you leave behind while operating this core.
