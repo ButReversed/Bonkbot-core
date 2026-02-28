@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bonkbot-core"
+version = "1.0.0"
+authors = [
+  { name="ButDoge", email="butdogebotdevelopment@gmail.com" },
+]
+description = "A specialized framework for developing automated bots within the bonk.io platform."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ButReversed/Bonkbot-core"
